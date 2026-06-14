@@ -113,14 +113,3 @@ Custom measures built for this report:
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yourwebsite.com)
-
----
-
-## 📄 License
-
-Data sourced from Statistics Canada under the [Statistics Canada Open Licence](https://www.statcan.gc.ca/en/reference/licence).
-Dashboard and visualizations created by [Your Name].
